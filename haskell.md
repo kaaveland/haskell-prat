@@ -120,6 +120,19 @@ Isolasjon av tilstandsrik kode
 - Mønsteret kan implementeres i andre språk også (eksempel?)
 - Eksempel på imparativ Haskell-kode
 
+Pointfree
+---------
+
+- Må ikke forveksles med 'pointless'
+- Handler om å ikke navngi tilstand som sendes
+- Litt som en sinnsykt imponerende shell-pipeline
+- Mye av samme fordelene
+- Mye av samme problemene
+- Veldig nyttig
+- Bruk hodet og vær litt disiplinert
+- Eksempel på feil som forhindres av pointfree
+- Eksempel på uleselig pointfree
+
 Typeklasser som polymorfisme
 ----------------------------
 
